@@ -83,8 +83,6 @@ body {
     background-color: #ffdb4d;
 }
 
-/* Add this to styles.css */
-
 .hero-section {
     position: relative;
     height: 600px; /* Adjust height as needed */
@@ -107,7 +105,8 @@ body {
     position: relative;
     z-index: 1;
     padding: 50px;
-    color: #fff;
+    /* color: #fff; */
+    color: brown;
 }
 
 .content h1 {
